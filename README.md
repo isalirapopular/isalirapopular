@@ -9,7 +9,7 @@ I am passionate about using technology to solve local problems on a global scale
 - ⚡ Fun fact: I'm a photographer and a multimedia communicator. I worked in motion graphic design and a as a video editor.
 ### Tech Stack
 
-- 🌐 &nbsp;
+ 🌐 &nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
