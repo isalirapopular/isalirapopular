@@ -8,8 +8,6 @@ I am passionate about using technology to solve local problems on a global scale
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm a photographer and a multimedia communicator. I worked in motion graphic design and a as a video editor.
 ### Tech Stack
-
-### Tools and Frameworks
 <p align="center">
   
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
